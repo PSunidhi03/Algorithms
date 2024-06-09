@@ -1,3 +1,6 @@
+- Efficient method of finding an element in a `sorted array`.
+- Works by dividing the array into equal halves. 
+
 ``` python
 BINARY_SEARCH(A, key)
 	n = A.size

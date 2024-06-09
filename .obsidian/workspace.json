@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca796be115cce4b2",
+  "active": "d7ea8dd658f86668",
   "lastOpenFiles": [
+    "binary_search.md",
+    "Untitled.md",
     "README.md",
-    "Welcome.md",
-    "binary_search.md"
+    "Welcome.md"
   ]
 }
