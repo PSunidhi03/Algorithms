@@ -14,7 +14,15 @@ while(i < m1.size() && j < m2.size()){//loop will continue till i and j are less
     i++;k++;
   }
   else{
-    m3[k] = m1[i];
-    i++;k++;
+    m3[k] = m2[j];
+    j++;k++;
   }
+}
+while(i<m1.size()){
+  m3[k] = m1[i];
+  i++;k++;
+}
+while(j<m2.size()){
+  m3[k] = m2[j];
+  j++;k++;
 }
