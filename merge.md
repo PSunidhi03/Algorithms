@@ -19,10 +19,10 @@ MERGE_SORT(m1,m2)
         j++
         k++
   
-
   while(i<m1.size())
     m3[k] = m1[i];
-    i++;k++;
+    i++
+    k++
 
   while(j<m2.size())
     m3[k] = m2[j]
