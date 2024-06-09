@@ -6,7 +6,7 @@
 - divide and conquer method
 
 ``` cpp
-merge(m1[],m2[],m3[]){
+merge(m1[],m2[]){
 i=0,j=0,k=0;//looping variables associated with arrays m1 m2 and m3
  m1[],m2[],m3[];//m1 m2 are the arrays to be merged and m3 is the merged array
 while(i < m1.size() && j < m2.size()){//loop will continue till i and j are less than the size of the array
@@ -27,5 +27,5 @@ while(j<m2.size()){
   m3[k] = m2[j];
   j++;k++;
 }
-return merge;
+return m3;
 }
