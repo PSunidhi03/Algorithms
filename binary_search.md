@@ -1,5 +1,6 @@
 - Efficient method of finding an element in a `sorted array`.
 - Works by dividing the array into equal halves. 
+- Divide and conquer method
 
 ``` python
 BINARY_SEARCH(A, key)

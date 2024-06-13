@@ -1,3 +1,8 @@
+## TO DO
+- [ ] Understand merge sort below
+- [ ] Modify MERGE to work with MERGE_SORT
+- [ ] Analyze MERGE and MERGE_SORT
+
 # Merge and Merge sort
 - is a way of merging 2 sorted arrays
 - time complexity - O( n logn )
@@ -30,4 +35,15 @@ MERGE(m1,m2)
     k++
 
 return m3
+```
+
+
+``` python
+MERGE_SORT(A, p, r)
+	if(p < r)
+		q = (p + r) / 2
+		MERGE_SORT(A, p, q)
+		MERGE_SORT(A, q+1, r)
+		MERGE(A, p, q, r)
+```
 

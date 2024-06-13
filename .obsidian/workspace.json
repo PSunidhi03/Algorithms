@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "binary_search.md",
+                "file": "merge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53c56255b17a3131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "merge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "binary_search.md",
+                "file": "merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "binary_search.md",
+                "file": "merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "binary_search.md"
+                "file": "merge.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ea8dd658f86668",
+  "active": "53c56255b17a3131",
   "lastOpenFiles": [
+    "DOM.md",
+    "merge.md",
     "binary_search.md",
-    "Untitled.md",
     "README.md",
     "Welcome.md"
   ]
