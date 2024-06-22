@@ -1,4 +1,4 @@
-# Selection Sort
+# Selection Sortt
 
 ```cpp
 SelectionSort(A,n)
