@@ -1,5 +1,6 @@
 # Bubble sort
 - Approach : bubble highest element to the last in each iteration
+- Brute Force ,decrease and conquer
 - Time Complexity : $O(n^2)$
 - Space Complexity : $O(1)$
 
