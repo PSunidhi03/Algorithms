@@ -5,8 +5,8 @@
 
 # Merge and Merge sort
 - is a way of merging 2 sorted arrays
-- time complexity - O(n\*logn)
-- space complexity - O(n)
+- time complexity - $O(nlogn)$
+- space complexity - $O(n)$
 - divides the array into smaller sub arrays and sorts it
 - divide and conquer method
 
