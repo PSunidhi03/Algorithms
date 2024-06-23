@@ -13,3 +13,4 @@ for i=0 to n-1: // repeats n times
 ```
 - Time complexity: O(n^2)
 - Space complexity: O(1)
+- Brute force / decrease and conquer
